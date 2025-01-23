@@ -1,6 +1,6 @@
 # Weather App
 
-View the Site: [Live Site](https://denniskim.codes/weather-app/)
+View the Site: [Live Site](https://denniskimweb.ca/weather-app/)
 
 ## Overview
 
