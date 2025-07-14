@@ -1,6 +1,6 @@
 # Weather App
 
-View the Site: [Live Site](https://denniskimweb.ca/weather-app/)
+View the Site: [Live Site](https://bomjukim.com//weather-app/)
 
 ## Overview
 
