@@ -22,4 +22,4 @@ HTML5, CSS3/Sass, JavaScript, Redux
 
 ## Author
 
-Dennis Kim
+Bomju (BK) Kim
